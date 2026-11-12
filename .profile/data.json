@@ -1,0 +1,249 @@
+{
+ "key": "ab2f0546",
+ "stars": 1,
+ "contributions": 221,
+ "repos": 12,
+ "followers": 2,
+ "languages": [
+  [
+   "Rust",
+   83825
+  ],
+  [
+   "PHP",
+   44720
+  ],
+  [
+   "CSS",
+   32053
+  ],
+  [
+   "JavaScript",
+   21105
+  ],
+  [
+   "HTML",
+   16043
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 12,
+    "today": true
+   },
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 2,
+  "longest": 11
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "WaifuFetcher",
+   "url": "https://github.com/gicziunicorn/WaifuFetcher",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "gicziunicorn",
+   "url": "https://github.com/gicziunicorn/gicziunicorn",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Waifu-API-rs",
+   "url": "https://github.com/gicziunicorn/Waifu-API-rs",
+   "text": "A library, written in Rust, that aims to allow the user to fetch posts, images and other media (like gifs) from different anime girl themed websites.",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "Catgirl-website",
+   "url": "https://github.com/gicziunicorn/Catgirl-website",
+   "text": "Catgirl fetcher",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "koltsegvetes",
+   "url": "https://github.com/gicziunicorn/koltsegvetes",
+   "text": "9. Személyes Pénzügyi Tervező",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "botos",
+   "url": "https://github.com/gicziunicorn/botos",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "kviz",
+   "url": "https://github.com/gicziunicorn/kviz",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "gantt",
+   "url": "https://github.com/gicziunicorn/gantt",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "otletlada",
+   "url": "https://github.com/gicziunicorn/otletlada",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "PHP",
+   "topics": []
+  },
+  {
+   "name": "farsang",
+   "url": "https://github.com/gicziunicorn/farsang",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "login-page",
+   "url": "https://github.com/gicziunicorn/login-page",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "PHP",
+   "topics": []
+  },
+  {
+   "name": "orarend-generator",
+   "url": "https://github.com/gicziunicorn/orarend-generator",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  }
+ ]
+}
